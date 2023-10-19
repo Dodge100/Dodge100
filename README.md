@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dodge100
+- 👀 I’m interested in creating high-quality projects for people to enjoy.
+- 🌱 I’m currently learning Python and JS frameworks.
+- 💞️ I’m looking to collaborate on games and other fun projects.
